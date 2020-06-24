@@ -1,0 +1,14 @@
+{
+  "name": "Base10",
+  "version": "1.0.0",
+  "description": "Convert data to numbers and back",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "HaxiDenti",
+  "license": "ISC",
+  "dependencies": {
+    "string-builder": "^0.1.6"
+  }
+}
